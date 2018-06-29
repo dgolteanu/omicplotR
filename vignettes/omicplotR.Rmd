@@ -20,7 +20,7 @@ knitr::opts_chunk$set(fig.pos = "h")
 
 # What is omicplotR?
 
-`omicplotR` is an R package containing a `Shiny` app used to visually explore omic datasets, where the input is a table of read counts from high-throughput sequencing runs. It integrates the `ALDEx2`[^1] package for compositional analysis of differential abundance. `omicplotR` is intended facilitate exploring high-throughput sequencing datasets by providing a graphical user interface for users with and without experience in R.
+`omicplotR` is an R package containing a `Shiny` app used to visually explore omic datasets, where the input is a table of read counts from high-throughput sequencing runs. It integrates the `ALDEx2`[^1] package for compositional analysis of differential abundance. `omicplotR` is intended to facilitate exploring high-throughput sequencing datasets by providing a graphical user interface for users with and without experience in R.
 
 [^1]: Fernandes et al (2013) PLOS ONE https://doi.org/10.1371/journal.pone.0067019
 
